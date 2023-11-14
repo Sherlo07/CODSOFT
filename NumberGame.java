@@ -35,6 +35,7 @@ class NumberGame{
         System.out.println("Your Out of K trials");
        
         System.out.println("The Number was "+number);
+	   System.out.println("Play Again");
     }
     else{
         System.out.println("Play Again");
