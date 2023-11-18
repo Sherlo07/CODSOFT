@@ -4,7 +4,7 @@ public class Student {
     public static void studentGrade(){
 
     int marks[] = new int[7];
-    int subjects=7;
+    int subjects=6;
     float total=0,avg;
     
     Scanner sc=new Scanner(System.in);
