@@ -27,7 +27,7 @@ class NumberGame{
       
     }
     else if(number<guess &&  i != K-1){
-        System.err.println("The Number is"+ " less than "+guess);
+        System.out.println("The Number is"+ " less than "+guess);
         
     }
 }
