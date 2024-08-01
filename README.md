@@ -1,2 +1,2 @@
 # CODSOFT
-This is my First Internship given by CODSOFT.I have done a Number Guessing game by using Java.  
+This is my First Internship with CODSOFT.I have done a Number Guessing game,Student Grade Calculator,ATM by using Java.  
